@@ -5,6 +5,8 @@
 
 ### This framework uses distant supervision for typing ,state of the art filtering techniques for detecting quality entity mentions and Autoencoder based anomaly detection to remove noisy seed mentions.
 
+### [[NER Framework Paper](https://github.com/bandjay/NER/blob/master/language-independent-entity-final.pdf)]
+
 ### Dependencies
 
 * python 2.7
